@@ -1,0 +1,26 @@
+### Q1
+iterm
+
+### Q2
+5.
+
+### Q3
+3
+
+### Q4
+4
+
+### Q5
+5
+
+### Q6
+2
+
+### Q7
+1
+
+### Q8
+
+1.git log --oneline --decorate --all
+2.git merge
+3.git checkout -b
